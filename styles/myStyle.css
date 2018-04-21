@@ -1,0 +1,296 @@
+body {
+    direction: rtl;
+    background-color: lightgoldenrodyellow;
+}
+
+#container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+#menu ul {
+    list-style-type: none;
+}
+
+#menu ul li {
+    display: inline-block;
+    float: right;
+    padding-bottom: 10px;
+}
+
+#menu ul li a {
+    display: block;
+    background-color: lightgreen;
+    color: white;
+    width: 199px;
+    height: 43px;
+    padding-top: 15px;
+    text-decoration: none;
+    text-align: center;
+    font-family: Guttman Kav;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 2px;            
+}
+
+#menu ul li a:hover {
+    background-color: yellowgreen;
+}
+ 
+#menu ul li a:active {
+    background-color: mediumseagreen;
+}
+
+#catavagarphicmovie {
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    clear: both;
+    margin-bottom: 20px;
+}
+
+#catava2garphicmovie {
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 18px;
+    clear: both;
+}
+
+#piskagarphicmovie {
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 16px;
+    margin-bottom: 15px;
+    margin-top: 12px;
+}
+
+#catavagarphic {
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    clear: both;
+    margin-bottom: 20px;
+}
+
+#catava2garphic {
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 18px;
+    clear: both;
+}
+
+#piskagarphic {
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 16px;
+    clear: both;
+    margin-bottom: 15px;
+    margin-top:12px;
+}
+
+.piskaindex {
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 16px;
+    clear: both;
+    margin-bottom:15px;
+    margin-top: 12px;
+}
+
+#osherhaim {
+    font-family: Guttman Kav;
+    font-size: 40px;
+    color: black;
+    margin-top: 60px;
+}
+
+.kesher h2 {
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 16px;
+    padding-right: 32px;
+}
+
+.kesher h1, p{
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#gmail {
+    background-image: url('../image/gmail.png');
+    background-size: 15px;
+    background-repeat: no-repeat;
+    background-position-x: 935px;
+    padding-top: 3px;
+    margin-top: 14px;
+}
+
+#iphone {
+    background-size: 25px;
+    background-image: url('../image/iphone.jpg');
+    background-repeat: no-repeat;
+    background-position-x: 935px;
+    padding-top: 3px;
+    margin-left: -4px;
+}
+
+#instagram {
+    background-size: 25px;
+    background-image: url('../image/instagram.png');
+    background-repeat: no-repeat;
+    background-position-x: 935px;
+    padding-top: 7px;
+    margin-left: -3px;
+}
+
+#catavasvivotvideo {
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    clear: both;
+    margin-bottom: 20px;
+}
+
+#catava2svivotvideo {
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 18px;
+    clear: both;
+}
+
+#piskasvivotvideo {
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 16px;
+    margin-bottom: 15px;
+    margin-top: 12px;
+}
+
+#piska2svivotvideo {
+    font-family: Guttman Kav;
+    color: blue;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+#catavasvivot {
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    clear: both;
+    margin-bottom: 20px;
+}
+
+#catava2svivot {
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 18px;
+    clear: both;
+}
+
+#piskasvivot {
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 16px;
+    margin-bottom: 15px;
+    margin-top: 12px;
+}
+
+#piska2svivot {
+    font-family: Guttman Kav;
+    color: blue;
+    font-size: 16px;
+    display: block;
+    margin-top: 12px;
+}
+
+#catavatikshoretprotret {
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    clear: both;
+    margin-bottom: 20px;
+}
+
+#catava2tikshoretprotret {
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 18px;
+    clear: both;
+}
+
+#piskatikshoretprotret {
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+#catavatiksoret {
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    clear: both;
+    margin-bottom: 20px;
+}
+
+#catava2tiksoret {
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 18px;
+    clear: both;
+}
+
+#piskatiksoret {
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 16px;
+    margin-bottom: 15px;
+    margin-top: 12px;
+}
+
+.photo {
+    margin-bottom: 10px;
+}
+
+#phototikshret {
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 16pt;
+    margin-top: 20px;
+    margin-bottom:-22px;
+    margin-right:49px;
+}
+
+#phototikshret2 {
+    margin-right: 400px;
+    font-family: Guttman Kav;
+    color: black;
+    font-size: 16pt;
+    display: block;
+}
+
+#menu ul li ul {
+    display: none;
+    position: absolute;
+}
+
+#menu ul li:hover > ul {
+    display: block;
+    width: 120px;
+}
+
+#audio{
+    margin-top: 15px;
+    margin:auto;
+    clear:both;
+}
+
